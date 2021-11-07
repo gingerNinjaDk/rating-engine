@@ -2,19 +2,24 @@
     "breeds": [
         {
             "id" : 1,
-            "breed": 1,
+            "breed": "Labrador",
             "factor": 1.494
         },
         {
             "id" : 2,
-            "breed": 2,
+            "breed": "Alsatian",
             "factor": 1.1
         },
         {
             "id" : 3,
-            "breed": 3,
+            "breed": "Terrier",
             "factor": 3
-       }
+       },
+       {
+        "id" : 4,
+        "breed": "Poodle",
+        "factor": 1.3
+   }
 
     ]
 }
