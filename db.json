@@ -49,6 +49,11 @@
     "id" : "STAFFORDSHIRE_BULL_TERRIER",
     "breed": "Staff",
     "factor": 4
+},
+{
+    "id" : "JACK_RUSSELL",
+    "breed": "Jack Russell",
+    "factor": 1.383
 }
 ]
 }
